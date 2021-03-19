@@ -8,11 +8,6 @@
 
 All instructions can be found at [Installation instructions](INSTALL.md)
 
-
-## License
-
-[MIT License](./LICENSE)
-
 ## Support me
 
 
