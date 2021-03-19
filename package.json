@@ -1,11 +1,11 @@
 {
   "name": "insomnia-plugin-theme-vscode-dark",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Unofficial vscode dark theme",
   "license": "MIT",
   "main": "index.js",
   "insomnia": {
-    "name": "theme-dracula",
+    "name": "theme-vscode",
     "description": "Unofficial vscode dark theme",
     "images": {
       "icon": "icon.svg",
@@ -25,9 +25,11 @@
     "type": "git",
     "url": "git+https://github.com/mxrck/insomnia-plugin-theme-vscode-dark.git"
   },
-  "author": "",
+  "author": "Marco Maldonado",
   "bugs": {
     "url": "https://github.com/mxrck/insomnia-plugin-theme-vscode-dark/issues"
   },
-  "homepage": "https://draculatheme.com/insomnia-plugin-theme-vscode-dark"
+  "homepage": "https://github.com/mxrck/insomnia-plugin-theme-vscode-dark",
+  "dependencies": {},
+  "devDependencies": {}
 }
