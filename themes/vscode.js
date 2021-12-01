@@ -3,6 +3,9 @@ module.exports = {
 	displayName: 'VSCode',
 	theme: {
 		rawCss: `
+		.editor .CodeMirror {
+			line-height: 1.8rem;
+		}
 		.notice.error {
 			border-style: unset;
 			background-color: var(--color-danger);
